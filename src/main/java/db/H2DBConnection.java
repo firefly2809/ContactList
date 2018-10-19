@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-class H2DBConnection {
+public class H2DBConnection {
 
     private static final String USER = "test";
     private static final String PASSWORD = "test11";
